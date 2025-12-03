@@ -6,10 +6,8 @@
     "python3",
     "telegram",
     "music-bot",
-    "telegram-bot",
     "pyrogram",
     "py-tgcalls",
-    "streaming",
     "AnnieXMusic"
   ],
   "env": {
@@ -55,6 +53,11 @@
     },
     "API_URL": {
       "description": "(Optional) URL of a custom API server used for music downloads or other services.",
+      "required": false,
+      "value": ""
+    },
+    "VIDEO_API_URL": {
+      "description": "(Optional) URL of a custom API server used for video downloads or other services.",
       "required": false,
       "value": ""
     },
