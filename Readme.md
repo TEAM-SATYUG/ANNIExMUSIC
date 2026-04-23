@@ -284,10 +284,10 @@ docker rmi anniexmusic      # Remove image
 
 <p align="center">
   <a href="https://t.me/CertifiedCoders">
-    <img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Support_Group-Telegram-0088cc?style=for-the-badge&logo=telegram&Color=white" />
   </a>
   <a href="https://t.me/CertifiedCodes">
-    <img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Updates_Channel-Telegram-6A5ACD?style=for-the-badge&logo=telegram&gradienticon=white" />
   </a>
   <a href="https://t.me/CertifiedCoder">
     <img src="https://img.shields.io/badge/Contact_Owner-Telegram-4CAF50?style=for-the-badge&logo=telegram&logoColor=glasswhite" />
